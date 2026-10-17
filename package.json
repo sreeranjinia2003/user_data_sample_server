@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/sreeranjinia2003/user_data_sample_server/issues"
   },
-  "homepage": "https://github.com/sreeranjinia2003/user_data_sample_server#readme"
+  "homepage": "https://github.com/sreeranjinia2003/user_data_sample_server#readme",
+  "dependencies": {
+    "json-server": "^1.0.0-beta.15"
+  }
 }
